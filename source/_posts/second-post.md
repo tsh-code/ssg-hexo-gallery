@@ -16,3 +16,5 @@ images:
 ---
 
 This is a test for my new Hexo website!
+
+Tutorial on [TSH Blog](https://tsh.io/blog) rocks!
