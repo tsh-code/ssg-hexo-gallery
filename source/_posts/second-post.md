@@ -5,13 +5,13 @@ tags: [welcome, gallery]
 images: 
   - 
     alt: First image
-    url: http://placekitten.com/200/300
+    url: https://placekitten.com/200/300
   - 
     alt: Second image
-    url: http://placekitten.com/210/315
+    url: https://placekitten.com/210/315
   - 
     alt: Third image
-    url: http://placekitten.com/220/330
+    url: https://placekitten.com/220/330
 
 ---
 
